@@ -1,0 +1,16 @@
+main {
+    padding: 1rem;
+}
+
+.secret {
+    padding: 1rem;
+    height: 50px;
+}
+
+.password {
+    font-weight: 800;
+}
+
+.w-color {
+    color: white;
+}
